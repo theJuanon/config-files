@@ -1,0 +1,2 @@
+sudo cp ~/bin/spotify_fix/spotify.desktop /usr/share/applications/spotify.desktop
+sudo cp ~/bin/spotify_fix/spotify.desktop /usr/share/spotify/spotify.desktop

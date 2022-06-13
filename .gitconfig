@@ -1,0 +1,9 @@
+[user]
+	name = theJuanon
+	email = 
+[init]
+	defaultBranch = main
+[alias]
+	lg = log --oneline --all --graph
+	s = status -s -b
+	ec = commit --allow-empty -m
